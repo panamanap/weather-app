@@ -1,0 +1,28 @@
+.wrapper {
+   border-radius: 10px;
+   width: 400px;
+   height: 100%;
+   background-color: hsla(206, 99%, 35%);
+}
+
+.heading {
+   box-sizing: border-box;
+   width: 100%;
+   background-color: hsl(0, 0%,26%);
+   font-size: 18px;
+   padding: 10px 0 10px 5px;
+   border-radius: 10px;
+}
+
+.description {
+   margin: 0 10px 5px;
+   display: flex;
+   justify-content: space-between;
+   font-size: 16px;
+}
+
+.first{
+   font-weight: bold;
+   font-size: 20px;
+}
+
